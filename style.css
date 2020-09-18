@@ -1,3 +1,6 @@
+body {
+  background-color: bisque;
+}
 .blue-centered {
   text-align: center;
   color: blue;
